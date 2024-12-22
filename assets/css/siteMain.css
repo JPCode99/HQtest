@@ -9,7 +9,7 @@ body{
   background-color: rgb(24, 55, 102);
 }
 #page-main-wrapper{
-  width: 100vw;
+  width: 100%;
 }
 /*Main Header Section Starts Here*/
 #main-header-section{

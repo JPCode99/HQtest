@@ -6,9 +6,11 @@
   box-sizing: border-box;
 }
 body{
+  
   background-color: rgb(24, 55, 102);
 }
 #page-main-wrapper{
+  overflow-x: hidden;
   width: 100%;
 }
 /*Main Header Section Starts Here*/
@@ -555,7 +557,7 @@ color: #dfdddd;
     margin-right: 10px;
   }
   .sidebar.opensidebar{
-    margin-right: 29%;
+    margin-right: -0%;
   }
   #phone-div{
     margin-top: 20px;
